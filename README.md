@@ -1,7 +1,5 @@
 # Linear Algebra with Python
 
-My notebooks for [Datacamp](https://www.datacamp.com/profile/eshaansn) projects.
-
 ## Singular Value Decomposition
 | Project | Description | Link |
 | --- | --- | --- |
